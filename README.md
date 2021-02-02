@@ -30,3 +30,6 @@ https://grd0001.tistory.com/19
 리눅스 용량이 큰 csv split
 https://fruitdev.tistory.com/61
 https://itholic.github.io/linux-split/
+
+
+[https://github.com/gofmsldks/2020_Tensorflow_ShopingMall_Auto_Matching/blob/master/%EB%B3%B4%EA%B3%A0%EC%84%9C%EB%B0%8F%EB%85%BC%EB%AC%B8/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202021-02-03%20%EC%98%A4%EC%A0%84%201.31.11.png]
