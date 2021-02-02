@@ -31,7 +31,7 @@ https://grd0001.tistory.com/19
 https://fruitdev.tistory.com/61
 https://itholic.github.io/linux-split/
 
-
+-----------------------------------------------------------------------------------------------------------------------------------
 실험 결과
 
 <img width="507" alt="스크린샷 2021-02-03 오전 1 38 21" src="https://user-images.githubusercontent.com/44065090/106632543-38256380-65c1-11eb-9d93-78984e940e6c.png">
