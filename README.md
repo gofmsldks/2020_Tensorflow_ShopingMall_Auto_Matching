@@ -26,3 +26,7 @@ https://deview.kr/data/deview/2019/presentation/[125]이미지와%20Text정보�
 
 sklearn과 keras를 이용한 딥러닝 기반 상품 카테고리 자동분류 서버 과제
 https://grd0001.tistory.com/19
+
+리눅스 용량이 큰 csv split
+https://fruitdev.tistory.com/61
+https://itholic.github.io/linux-split/
