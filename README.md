@@ -32,4 +32,10 @@ https://fruitdev.tistory.com/61
 https://itholic.github.io/linux-split/
 
 
-[https://github.com/gofmsldks/2020_Tensorflow_ShopingMall_Auto_Matching/blob/master/%EB%B3%B4%EA%B3%A0%EC%84%9C%EB%B0%8F%EB%85%BC%EB%AC%B8/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202021-02-03%20%EC%98%A4%EC%A0%84%201.31.11.png]
+실험 결과
+
+<img width="507" alt="스크린샷 2021-02-03 오전 1 38 21" src="https://user-images.githubusercontent.com/44065090/106632543-38256380-65c1-11eb-9d93-78984e940e6c.png">
+
+논문 및 보고서 일부 발췌
+
+<img width="659" alt="스크린샷 2021-02-03 오전 1 30 41" src="https://user-images.githubusercontent.com/44065090/106632642-53906e80-65c1-11eb-83bc-a9acf0fe84e5.png">
